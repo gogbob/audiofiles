@@ -1,2 +1,2 @@
 # audiofiles
-audio wav and midi files for maestro
+audio wav and midi files from maestro
